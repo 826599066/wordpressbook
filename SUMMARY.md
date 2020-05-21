@@ -8,8 +8,6 @@
 * [登录](part1/gitbook.md)
 * [安装主题](setup/an-zhuang-zhu-ti.md)
 
-           asd
-
 ## Part II
 
 * [We love feedback](part2/feedback_please.md)
