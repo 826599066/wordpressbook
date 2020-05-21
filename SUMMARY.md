@@ -7,7 +7,7 @@
 * [安装](setup/content.md)
 * [登录](part1/gitbook.md)
 * [安装主题]()
-    * [enfold]
+  * enfold
 
 ## Part II
 
