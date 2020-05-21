@@ -1,0 +1,14 @@
+{
+    "title": "Gitbook Use",
+    "description": "Gitbook Use",
+    "author": "godhope",
+    "generator": "site",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Home": "http://zhangjikai.com",
+            "Gitbook Use": "https://www.gitbook.com/book/godhope/gitbook-use"
+        },
+        "gitbook": true
+    }
+}
