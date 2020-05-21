@@ -8,7 +8,7 @@
 * [登录](part1/gitbook.md)
 * [安装主题](setup/an-zhuang-zhu-ti.md)
 
-1. asd
+           asd
 
 ## Part II
 
