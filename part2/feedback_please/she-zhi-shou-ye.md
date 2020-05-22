@@ -5,5 +5,5 @@
 
 ![](/assets/setindex.png)3.选择save all change保存修改
 
-![](/assets/saveall.png)
+![](/assets/saveall.png)4.然后访问网站首页如果出现如下页面证明首页设置没问题![](/assets/setindexover.png)5.
 
