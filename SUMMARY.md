@@ -8,9 +8,9 @@
 * [登录](part1/gitbook.md)
 * [安装主题](setup/an-zhuang-zhu-ti.md)
 
-## Part II
+## 使用
 
-* [We love feedback](part2/feedback_please.md)
+* [Enfold主题使用](part2/feedback_please.md)
 * [Better tools for authors](part2/better_tools.md)
 
 ## test
