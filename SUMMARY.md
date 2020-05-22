@@ -16,6 +16,7 @@
   * [主题简介](part2/feedback_please.md)
   * [设置首页](part2/feedback_please/she-zhi-shou-ye.md)
   * [删除系统默认的侧边栏和面包屑导航](part2/shan-chu-xi-tong-mo-ren-de-ce-bian-lan-he-mian-bao-xie-dao-hang.md)
+  * [上传网站logo和icon](part2/shang-chuan-wang-zhan-logo-he-icon.md)
 
 ## test
 
