@@ -11,6 +11,7 @@
 ## 使用
 
 * [Enfold主题使用](part2/feedback_please.md)
+    * [设置首页]
 * [Better tools for authors](part2/better_tools.md)
 
 ## test
