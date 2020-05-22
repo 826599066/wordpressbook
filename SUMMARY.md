@@ -10,8 +10,9 @@
 
 ## 使用
 
-* 页面创建和编辑
+* [页面创建和编辑](shi-yong/ye-mian-chuang-jian-he-bian-ji.md)
   * [页面创建](shi-yong/ye-mian-chuang-jian.md)
+  * [页面编辑](shi-yong/ye-mian-bian-ji.md)
 * [Enfold主题使用](shi-yong/enfoldzhu-ti-shi-yong.md)
   * [主题简介](part2/feedback_please.md)
   * [设置首页](part2/feedback_please/she-zhi-shou-ye.md)
