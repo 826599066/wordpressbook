@@ -1,8 +1,6 @@
 # 设置首页
 
-1. 首页点击**页面&gt;新建页面**
+1. 参照[新建页面](/shi-yong/ye-mian-chuang-jian.md)创建一个首页的页面
 
-![](/assets/xinjianyemian.png)2.创建页面
 
-![](/assets/xinjianyemian.png)
 
