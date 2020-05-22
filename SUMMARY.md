@@ -12,9 +12,10 @@
 
 * 页面创建和编辑
   * [页面创建](shi-yong/ye-mian-chuang-jian.md)
-* Enfold主题使用
+* [Enfold主题使用](shi-yong/enfoldzhu-ti-shi-yong.md)
   * [主题简介](part2/feedback_please.md)
   * [设置首页](part2/feedback_please/she-zhi-shou-ye.md)
+  * [删除系统默认的侧边栏和面包屑导航](part2/shan-chu-xi-tong-mo-ren-de-ce-bian-lan-he-mian-bao-xie-dao-hang.md)
 
 ## test
 
