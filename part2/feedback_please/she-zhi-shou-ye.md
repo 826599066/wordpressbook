@@ -1,8 +1,8 @@
 # 设置首页
 
-1. Enfold主题安装好之后会自动跳转到这个页面
+1. 首页点击**页面&gt;新建页面**
 
-![](/assets/demo.wordpress.com_wp-admin_admin.php_avia_welcome=true&page=avia.png)
+![](/assets/xinjianyemian.png)2.创建页面
 
-
+![](/assets/xinjianyemian.png)
 
