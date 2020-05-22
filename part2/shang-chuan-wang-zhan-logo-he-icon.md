@@ -6,5 +6,5 @@
 
 2.上传好就是对应的网站的logo和favicon
 
-![](/assets/websitelogo.png)
+![](/assets/websitelogo.png)![](/assets/favicon.png)
 
