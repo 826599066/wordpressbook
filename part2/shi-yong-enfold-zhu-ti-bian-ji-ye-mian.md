@@ -6,9 +6,32 @@
 
 ### ![](/assets/selectenfold.png)Layout Elements
 
+* 百分比分配
+* Color Section
+
+* Grid Row
+
+
+
 ### Content Elements
 
+* Text Block
+
+* Post Slider
+
+* Animated Numbers
+
+* Code Block
+
 ### Media Elements
+
+* Image
+
+* Image with Hotspots
+
+* Video
+
+* Fullwidth Easy Slider
 
 
 
