@@ -6,7 +6,7 @@
 
 ![](/assets/editinfo.png)1.页面的标题
 
-2.enflod工具按钮
+2.enflod工具按钮 点击查看使用enflod主题编辑页面
 
 3.内容编辑区域
 
@@ -15,6 +15,4 @@
 5.layout 修改这个页面的布局,主要是针对sidebar
 
 6.这里可以上传页面的缩略图
-
-
 
